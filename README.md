@@ -1,1 +1,11 @@
 # CS250- Software Development LifeCycle
+
+# How do I interpret user needs and implement them into a program? How does creating “user stories” help with this
+
+- Interpreting user needs and implementing them into a program in the context of Agile Scrum involves closely engaging with users to understand their requirements, challenges, and goals. Creating user stories is an important part of this process. A user story is a short, simple description of a feature from the perspective of the user or customer. It typically follows a simple format: "As a [type of user], I want [some goal] so that [some reason]." User stories help by breaking down complex user requirements into manageable, actionable items. They focus on the value a feature will deliver to the user, making it easier for the development team to prioritize work and ensure that the product is being built to meet real user needs.
+  
+# How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+- When approaching program development, incorporating Agile Scrum processes involves iterative development, where work is divided into small, manageable increments known as Sprints. This approach allows for frequent reassessment of project priorities and adapting to changes quickly. Putting emphasis on collaboration, regular feedback, and continuous improvement, Agile practices encourage a flexible and responsive development environment. Software is developed quickly and improved in subsequent iterations, based on real user feedback and changing requirements.
+
+# What does it mean to be a good team member in software development?
+- Being a good team member in software development within an Agile Scrum environment means being collaborative, communicative, and adaptable. It involves actively participating in all Scrum ceremonies, sharing knowledge and learning from others, and being open to changes in project scope or direction. Good team members take ownership of their tasks, are committed to the team's goals, and help create a supportive environment where every member feels valued and empowered to contribute their best work. A focus on continuous improvement, both personally and as a team, is important to succedding in Agile Scrum teams.
